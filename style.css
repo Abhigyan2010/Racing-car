@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("race.gif");
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    background-image: url("Race Track.jpg");
+    border: 3px ridge grey;
+}
+h3,b{
+    color:white;
+    font-size: 20px;;
+}
